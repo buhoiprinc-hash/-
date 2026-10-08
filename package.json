@@ -1,0 +1,10 @@
+{
+  "name": "academic-performance-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Лабораторная работа №2: анализ успеваемости студентов",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test"
+  }
+}
